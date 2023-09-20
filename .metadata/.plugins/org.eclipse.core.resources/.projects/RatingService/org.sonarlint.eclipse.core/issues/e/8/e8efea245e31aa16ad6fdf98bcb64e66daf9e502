@@ -1,0 +1,14 @@
+
+
+java:S1488""_Immediately return this expression instead of assigning it to the temporary variable "ratings".(æ£ˆıÿÿÿÿH¸RMINORZ
+CODE_SMELL
+˜
+java:S1488."gImmediately return this expression instead of assigning it to the temporary variable "ratingWithHotel".(ÛÎç‘ıÿÿÿÿH»RMINORZ
+CODE_SMELL
+“
+java:S1488:"gImmediately return this expression instead of assigning it to the temporary variable "ratingWithHotel".(È×ØòH¾RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(–ğ›™HÁRMAJORZ
+CODE_SMELL
+l	java:S125/"<This block of commented-out lines of code should be removed.(Ñ£›¤ıÿÿÿÿHÂRMAJORZ
+CODE_SMELL

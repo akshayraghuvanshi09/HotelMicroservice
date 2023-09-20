@@ -1,0 +1,13 @@
+
+f
+java:S1172g"5Remove these unused method parameters "userId", "ex".(Ô âœøÿÿÿÿHàRMAJORZ
+CODE_SMELL
+t
+java:S2259V"JA "NullPointerException" could be thrown; "listOfRating" is nullable here.(êÐÀãúÿÿÿÿHäRMAJORZBUG
+g	java:S125h"<This block of commented-out lines of code should be removed.(ÔÑðHèRMAJORZ
+CODE_SMELL
+f	java:S125J"<This block of commented-out lines of code should be removed.(ä«dHéRMAJORZ
+CODE_SMELL
+
+java:S1488j"\Immediately return this expression instead of assigning it to the temporary variable "user".(€ÃÝçÿÿÿÿÿHëRMINORZ
+CODE_SMELL
